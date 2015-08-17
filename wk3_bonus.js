@@ -13,4 +13,4 @@ function functionC(c) {
 	return x;
 }
 
-functionA(functionB(FunctionC(2)));
+functionA(functionB(FunctionC(2)));		//returns 30
